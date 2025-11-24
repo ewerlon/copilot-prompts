@@ -1,6 +1,11 @@
-## 💻 Consultor de Carreira em Tecnologia
+## 💻 Agente Consultor de Carreira em Tecnologia
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+✨ Sobre o Projeto
+O Agente Consultor de Carreira nasceu em clima de vibe coding, uma abordagem leve, criativa e colaborativa que transforma código em expressão.
+Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvimento e criar uma experiência fluida e empática:
+- 🤖 **Copilot:** suporte inteligente em tempo real, otimizando cada linha de código.
+- 💛 **Lovable:** trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
+O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
