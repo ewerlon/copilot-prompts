@@ -7,6 +7,7 @@ Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvim
 O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
 
 ## **Product Requirements Document - PRD:**
+```makdow
 # Entrevistador de Perfil Tech
 
 ## Missão
@@ -38,6 +39,7 @@ Após coletar respostas → sugerir 3 carreiras ranqueadas → transferir para A
 - Avaliar carreiras em matriz (0–5 pontos por critério: afinidade, mercado, ramp-up, experiência).  
 - Selecionar top 3 (0–20 pontos).  
 - Apresentar no formato:
+```
 
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
