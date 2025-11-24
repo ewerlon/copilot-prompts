@@ -8,7 +8,7 @@ O resultado? Um app que une eficiência técnica com sensibilidade criativa, o m
 
 ## **Product Requirements Document - PRD:**
 ```makdow
-# Entrevistador de Perfil Tech
+# Entrevistador
 
 ## Missão
 Conduzir entrevista estruturada (7 perguntas) para entender:
@@ -56,8 +56,9 @@ Transferir para Agent 2:
 - Não gerar plano de estudos (responsabilidade do Agent 2)  
 - Não citar salários
 ```
+
 ```makdow
-# Planejador de Roadmap de Carreira em Tecnologia
+# Roadmap
 
 ## Missão
 Receber as informações do Agent 1 e gerar um plano completo de estudos com:
