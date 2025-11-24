@@ -1,4 +1,4 @@
-## 💻 Agente Consultor de Carreira em Tecnologia
+# 💻 Agente Consultor de Carreira em Tecnologia com Vibe Coding.
 
 ✨ Sobre o Projeto do Agente Consultor de Carreira nasceu em clima de vibe coding, uma abordagem leve, criativa e colaborativa que transforma código em expressão.
 Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvimento e criar uma experiência fluida e empática:
@@ -6,7 +6,7 @@ Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvim
 - 💛 **Lovable:** trouxe personalidade à interface, criando uma conexão mais humana entre tecnologia e usuário.
 O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## **Product Requirements Document - PRD:**
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
