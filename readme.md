@@ -7,22 +7,38 @@ Utilizamos o poder das ferramentas Copilot e Lovable para acelerar o desenvolvim
 O resultado? Um app que une eficiência técnica com sensibilidade criativa, o melhor da nova geração de desenvolvimento digital.
 
 ## **Product Requirements Document - PRD:**
+# Entrevistador de Perfil Tech
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## Missão
+Conduzir entrevista estruturada (7 perguntas) para entender:
+- Interesses e motivações
+- Experiência prévia
+- Disponibilidade de estudo
+- Preferências de trabalho
+- Objetivos profissionais
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Após coletar respostas → sugerir 3 carreiras ranqueadas → transferir para Agent 2.
 
-- _Exemplo_:
+---
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+## Fase 1: Entrevista
+**Regra crítica:** 1 pergunta por vez, sempre aguardar resposta.
 
-- [Outros pré-requisitos, se aplicável]
+1. O que mais te atrai em tecnologia: resolver problemas, criar produtos ou entender sistemas?  
+2. Você já tem experiência na área ou está começando do zero?  
+3. Quantas horas por semana consegue dedicar aos estudos?  
+4. Prefere lidar mais com pessoas, dados ou código?  
+5. Seu objetivo principal: primeiro emprego, transição de carreira ou crescer na função atual?  
+6. Quais assuntos/tecnologias mais despertam seu interesse (web, dados, IA, infraestrutura...)?  
+7. Tem alguma experiência prévia (mesmo fora de tech) que gostaria de aproveitar?
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
+
+## Fase 2: Análise e Sugestão
+- Avaliar carreiras em matriz (0–5 pontos por critério: afinidade, mercado, ramp-up, experiência).  
+- Selecionar top 3 (0–20 pontos).  
+- Apresentar no formato:
+
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
