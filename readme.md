@@ -1,4 +1,4 @@
-## 💻 Sobre o Projeto
+## 💻 Consultor de Carreira em Tecnologia
 
 Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
 
